@@ -1,5 +1,7 @@
 # Cast – [Alfred](https://www.alfredapp.com/) Workflow
 
+<img width="429" alt="Screen Shot 2020-06-06 at 10 15 02 AM" src="https://user-images.githubusercontent.com/3620471/83946418-bf29fe00-a7de-11ea-8c15-625bf204f1b5.png">
+
 This workflow helps to prepare your environment for screen share and then helps to revert changes.
 
 On start workflow will:
