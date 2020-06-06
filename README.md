@@ -9,7 +9,7 @@ On start workflow will:
 * hide desktop icons
 * turn on Dock auto-hide
 * turn on menu bar auto-hide
-* open Keycastr app
+* open [Keycastr](https://github.com/keycastr/keycastr) app
 * close Twitterrific, Telegram
 * restart Finder
 
